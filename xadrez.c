@@ -9,6 +9,7 @@ int x = 0, y = 0; // Posição inicial comum
         x++;
         y++;
         printf("Cima Direita: %d casa\n", x,y);
+
     }
 // Reiniciando posição
     x = 0;
